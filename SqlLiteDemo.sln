@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLiteDemo.Android", "SqlL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLiteDemo.iOS", "SqlLiteDemo\SqlLiteDemo.iOS\SqlLiteDemo.iOS.csproj", "{ACB17B30-A5CC-4375-9A92-0152985D6AD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLiteDemo", "SqlLiteDemo\SqlLiteDemo\SqlLiteDemo.csproj", "{28E78A75-B065-4493-B979-973965EEA824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlLiteDemo", "SqlLiteDemo\SqlLiteDemo\SqlLiteDemo.csproj", "{28E78A75-B065-4493-B979-973965EEA824}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41FE23B2-4D8F-4A96-8BD3-1B6D0FFFDE05}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
